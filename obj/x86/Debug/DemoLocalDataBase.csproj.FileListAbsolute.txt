@@ -1,0 +1,10 @@
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\bin\Debug\bin\Debug\MyDB.sdf
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\bin\Debug\DemoLocalDataBase.exe.config
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\bin\Debug\DemoLocalDataBase.exe
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\bin\Debug\DemoLocalDataBase.pdb
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\obj\x86\Debug\DemoLocalDataBase.csprojResolveAssemblyReference.cache
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\obj\x86\Debug\DemoLocalDataBase.Form1.resources
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\obj\x86\Debug\DemoLocalDataBase.Properties.Resources.resources
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\obj\x86\Debug\DemoLocalDataBase.csproj.GenerateResource.Cache
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\obj\x86\Debug\DemoLocalDataBase.exe
+D:\PritiFolder\R&DFolder\WindowApplication\DemoUseJavaScriptFun\DemoUseJavaScriptFun\DemoLocalDataBase\obj\x86\Debug\DemoLocalDataBase.pdb
